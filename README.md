@@ -6,3 +6,7 @@
 -  🎓 A Bioinformatics student at UTM Johor Bahru
 -  📚 Interested in mastering my programming techniques and developing webs and apps.
 -  🌍 I'm from Pahang, Malaysia
+
+## 📂 Categories
+- **Reports**
+- 
