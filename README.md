@@ -1,11 +1,12 @@
 <h1>Hi 👋, I'm Afina Soleha Batrisyia</h1>
 <h3>Bridging Data and Biology Through Computational Science</h3>
 
+
 - 🌱 I’m currently learning **Computer Science (Bioinformatics)**
 
-- 👨‍💻 Visit my ePortfolio [https://genial-result-717514.framer.app/](https://genial-result-717514.framer.app/)
-
 - 🌍 I'm based in **Malaysia**
+
+- 👨‍💻 Visit my ePortfolio [https://genial-result-717514.framer.app/](https://genial-result-717514.framer.app/)
 
 - 📫 You can reach me at **afinahisafudin@gmail.com**
 
