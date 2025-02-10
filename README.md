@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afina Soleha Batrisyia</h1>
-<h3 align="center">A Bioinformatics Student at UTM</h3>
+
 
 - 🌱 I’m currently learning **Computer Science (Bioinformatics)**
 
