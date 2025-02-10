@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Afina Soleha Batrisyia</h1>
-<h3 align="center">Bridging Data and Biology Through Computational Science</h3>
+<h1>Hi 👋, I'm Afina Soleha Batrisyia</h1>
+<h3>Bridging Data and Biology Through Computational Science</h3>
 
 - 🌱 I’m currently learning **Computer Science (Bioinformatics)**
 
