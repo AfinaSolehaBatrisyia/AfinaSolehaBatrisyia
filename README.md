@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afina Soleha Batrisyia</h1>
 <h3 align="center">A Bioinformatics Student at UTM</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afinasolehabatrisyia&label=Profile%20views&color=0e75b6&style=flat" alt="afinasolehabatrisyia" /> </p>
-
 - 🌱 I’m currently learning **Computer Science (Bioinformatics)**
 
 - 👨‍💻 Visit my ePortfolio [https://genial-result-717514.framer.app/](https://genial-result-717514.framer.app/)
@@ -23,3 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afinasolehabatrisyia&show_icons=true&locale=en" alt="afinasolehabatrisyia" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afinasolehabatrisyia&" alt="afinasolehabatrisyia" /></p>
