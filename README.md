@@ -1,12 +1,13 @@
 <h1>Hi 👋, I'm Afina Soleha Batrisyia</h1>
 <h3>Bridging Data and Biology Through Computational Science</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afinasolehabatrisyia&label=Profile%20views&color=0e75b6&style=flat" alt="afinasolehabatrisyia" /> </p>
 
 - 🌱 I’m currently learning **Computer Science (Bioinformatics)**
 
-- 🌍 I'm based in **Malaysia**
-
 - 👨‍💻 Visit my ePortfolio [https://genial-result-717514.framer.app/](https://genial-result-717514.framer.app/)
+
+- 🌍 I'm based in **Malaysia**
 
 - 📫 You can reach me at **afinahisafudin@gmail.com**
 
@@ -14,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/afina soleha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afina soleha" height="30" width="40" /></a>
 <a href="https://instagram.com/mintychoc0s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mintychoc0s" height="30" width="40" /></a>
 </p>
 
@@ -25,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afinasolehabatrisyia&show_icons=true&locale=en" alt="afinasolehabatrisyia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afinasolehabatrisyia&" alt="afinasolehabatrisyia" /></p>
+
