@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Afina Soleha Batrisyia</h1>
-<h3>Bridging Data and Biology Through Computational Science</h3>
+<h1 align="center">Hi 👋, I'm Afina Soleha Batrisyia</h1>
+<h3 align="center">Bridging Data and Biology Through Computational Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afinasolehabatrisyia&label=Profile%20views&color=0e75b6&style=flat" alt="afinasolehabatrisyia" /> </p>
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/afina soleha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afina soleha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/afinasoleha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afinasoleha" height="30" width="40" /></a>
 <a href="https://instagram.com/mintychoc0s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mintychoc0s" height="30" width="40" /></a>
 </p>
 
@@ -27,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afinasolehabatrisyia&show_icons=true&locale=en" alt="afinasolehabatrisyia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afinasolehabatrisyia&" alt="afinasolehabatrisyia" /></p>
-
