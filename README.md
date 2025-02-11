@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Computer Science (Bioinformatics)**
 
-- 👨‍💻 Visit my ePortfolio [https://genial-result-717514.framer.app/](https://genial-result-717514.framer.app/)
-
 - 🌍 I'm based in **Malaysia**
+
+- 👨‍💻 Visit my ePortfolio [https://genial-result-717514.framer.app/](https://genial-result-717514.framer.app/)
 
 - 📫 You can reach me at **afinahisafudin@gmail.com**
 
@@ -15,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/afina soleha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afina soleha" height="30" width="40" /></a>
 <a href="https://instagram.com/mintychoc0s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mintychoc0s" height="30" width="40" /></a>
 </p>
 
